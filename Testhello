@@ -1,0 +1,5 @@
+print("hello world!")
+ int x =input("enter username")
+  
+    print("your username is" + x)
+    
